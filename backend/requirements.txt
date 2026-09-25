@@ -1,0 +1,14 @@
+fastapi
+tensorflow
+matplotlib
+numpy
+seaborn
+pandas
+pyYAML
+tqdm
+ensure
+joblib
+python-multipart
+python-box
+
+-e .

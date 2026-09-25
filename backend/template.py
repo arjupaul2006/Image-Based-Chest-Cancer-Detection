@@ -3,7 +3,6 @@ from pathlib import Path
 
 project_name = "chest_cancer_classification"
 list_of_files = [
-    ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/config/__init__.py",
