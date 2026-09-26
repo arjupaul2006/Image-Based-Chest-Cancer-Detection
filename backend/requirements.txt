@@ -10,5 +10,7 @@ ensure
 joblib
 python-multipart
 python-box
+ipykernel
+gdown
 
--e .
+# -e .
