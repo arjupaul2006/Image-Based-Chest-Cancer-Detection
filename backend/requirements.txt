@@ -12,5 +12,6 @@ python-multipart
 python-box
 ipykernel
 gdown
+huggingface_hub
 
 # -e .
